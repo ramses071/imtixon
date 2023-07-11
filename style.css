@@ -1,0 +1,167 @@
+* {
+    font-family: sans-serif;
+  }
+  
+  .nav {
+    display: flex;
+    margin: 30px 100px;
+    padding: 40px 100px;
+  }
+  .nav .link {
+    display: flex;
+    margin-top: 25px;
+  }
+ a{
+    text-decoration: none;
+
+  }
+  .nav .link li {
+    margin-left: 35px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .nav .button {
+    width: 140px;
+    height: 50px;
+    border-radius: 5%;
+    background-color: aqua;
+    margin-left: 60px;
+    margin-top: 10px;
+  }
+  .nav .button li {
+    text-align: center;
+    cursor: pointer;
+    padding: 15px;
+  }
+  
+  .header img {
+    width: 80%;
+    margin-left: 130px;
+  }
+  
+  .row {
+    width: 60%;
+    margin-left: 260px;
+    margin-top: 80px;
+  }
+  .row .pic-three {
+    width: 200px;
+    height: 270px;
+    margin-top: -10;
+    margin-left: -10px;
+    padding: none;
+  }
+  .row .pic {
+    background: #F1F1F1;
+    border-left: 3px solid #fff;
+    padding: 15px;
+  }
+  
+  .pic .pic-one {
+    display: block;
+  }
+  .pic h5 {
+    display: inline;
+  }
+  
+  .bottom {
+    margin-top: 10px;
+  }
+  
+  .dry img {
+    width: 60%;
+    margin-left: 260px;
+    margin-top: 30px;
+  }
+.body{
+    background-color: blue;
+    color: aliceblue;
+    height: 900px;
+}
+.div{
+    text-align: center;
+}
+.bir{
+    margin-left: -850px;
+    border: 1px solid rgb(0, 0, 255);
+}
+.uch{
+    width: 150px;
+    height: 40px;
+margin-left: 700px;
+margin-top: -380px;
+background-color: #0FE3AF;
+}
+.div3{
+    background-color: rgb(21, 21, 108);
+    width: 350px;
+    height: 500px;
+
+}
+.bir2{
+    border-radius: 20px;
+}
+.bir1{
+    background-color: rgb(21, 21, 108);
+}
+.ikki1{
+    background-color: rgb(21, 21, 108);  
+}
+.ga{
+    text-align: center;
+    margin-left: 220px;
+    margin-top: 50px;
+}
+.go{
+    text-align: center;
+    margin-left: 380px;
+    margin-top: -500px;
+}
+.og{
+    margin-left: 380px;
+    margin-top: -500px;
+}
+.div7{
+    width: 1100px;
+    border: 1px solid rgb(17, 0, 255);
+    margin-top: 100px;
+    margin-left: 220px;
+    display: flex;
+}
+.div8{
+    width: 1734.528px;
+    height: 556.786px;
+    flex-shrink: 0;
+    background-color:#E5F2EF;
+    margin-top: 150px; 
+}
+.div9{
+  margin-left: -1400px;  
+  
+}
+.div15{
+    margin-top: -230px;
+    margin-left: -500px;
+}
+.div16{
+    color: black;
+    margin-left: -900px;
+margin-top: 25px;
+}
+.div17{
+    color: black;
+    margin-top: -223px;
+    margin-left: -500px;
+}
+.div19{
+    margin-top: -290px;
+ color: #000000;   
+}
+.bir7{
+    background-color: #0055ff;
+    border-radius: 10px;
+}
+.bir9{
+    width: 200px;
+    background-color: #0055ff;
+}
